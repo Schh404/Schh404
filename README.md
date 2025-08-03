@@ -1,4 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Sachini+Madhushani%2C+aka+Sachi.)
 
 <h1 align="center">Hi 👋, I'm H.M.S.I.Madhushani</h1>
 <h3 align="center">I am a Computer Network and Security student from NSBM Green University.</h3>
